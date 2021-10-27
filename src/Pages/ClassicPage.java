@@ -12,7 +12,7 @@ public class ClassicPage {
 		
 		String name = "Naveen";
 		int age = 25;
-		int sal = 12;
+		int sal = 15;
 	}
 	
 
