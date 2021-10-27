@@ -9,7 +9,8 @@ public class ClassicPage {
 		int div = k1 / k;
 		System.out.println(div);
 		System.out.println("Bye");
-
+		
+		String name = "Naveen";
 	}
 
 }
