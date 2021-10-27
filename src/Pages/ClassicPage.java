@@ -13,6 +13,8 @@ public class ClassicPage {
 		String name = "Naveen";
 		int age = 25;
 		int sal = 15;
+		
+		System.out.println("Hi Cart");
 	}
 	
 
