@@ -11,6 +11,7 @@ public class ClassicPage {
 		System.out.println("Bye");
 		
 		String name = "Naveen";
+		int age = 25;
 		int sal = 12;
 	}
 	
