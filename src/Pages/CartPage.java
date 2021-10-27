@@ -4,10 +4,12 @@ public class CartPage {
 	
 	
 	public void cart() {
-		String nameD2 = "cart dev 2";
-		System.out.println(nameD2);
-		
-		
+
+		String nameD1 = "cart D1";
+		System.out.println(nameD1);
+		if(true) {
+			System.out.println("cart is done...");
+		}
 		
 	}
 	
