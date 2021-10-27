@@ -13,6 +13,5 @@ public class ClassicPage {
 		String name = "Naveen";
 	}
 	
-	
 
 }
