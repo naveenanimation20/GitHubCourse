@@ -8,6 +8,7 @@ public class FeatureOne {
 		System.out.println("f2");
 
 		System.out.println("f3");
+		System.out.println("f4");
 
 	}
 
