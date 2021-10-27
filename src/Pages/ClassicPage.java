@@ -13,8 +13,6 @@ public class ClassicPage {
 		String name = "Naveen";
 	}
 	
-	public void m1() {
-		System.out.println("naveen - m1");
-	}
+	
 
 }
