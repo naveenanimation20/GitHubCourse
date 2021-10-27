@@ -18,6 +18,13 @@ public class ClassicPage {
 		int h = 10;
 	}
 	
+
+	public void master() {
+
+		System.out.println("Hi master");
+
+	}
+	
 	
 	
 
