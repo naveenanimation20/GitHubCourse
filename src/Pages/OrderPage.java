@@ -4,6 +4,6 @@ public class OrderPage {
 
 	
 	public static void doOrder() {
-		System.out.println("Order Page1");
+		System.out.println("Order Page2");
 	}
 }
